@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DiceRoll</string>
+    <string name="input_error_message">Please enter a valid number</string>
+    <string name="roll">Roll</string>
+    <string name="dice_sides_hint">Dice sides</string>
+    <string name="result_template">\"Result: \"</string>
+    <string name="invalid_input_hint">Please enter a valid number</string>
 </resources>
