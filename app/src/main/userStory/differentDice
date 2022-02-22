@@ -11,3 +11,7 @@ example include but are not limited to:
 12 sided die
 20 sided die
 100 sided die
+
+// Points
+- Dynamic number of sides
+- User input - text number
